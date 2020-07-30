@@ -30,6 +30,7 @@ class myArray {
   }
 }
 
+
 const arr1 = new myArray;
 arr1.get(0)
 arr1.push('1')
